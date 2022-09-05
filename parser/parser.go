@@ -7,8 +7,8 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/mailgun/raymond/v2/ast"
-	"github.com/mailgun/raymond/v2/lexer"
+	"github.com/ayanko/raymond/v2/ast"
+	"github.com/ayanko/raymond/v2/lexer"
 )
 
 // References:
